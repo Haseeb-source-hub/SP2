@@ -6,7 +6,7 @@ public class BadIfs {
         if (x < y) {
             System.out.println("aaa");
             if (x < z)
-                System.out.println("bbb");
+                System.out.println("bbsssssb");
         } else
             System.out.println("ccc");
         System.out.println("ddd");
